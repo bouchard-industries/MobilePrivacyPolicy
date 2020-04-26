@@ -16,11 +16,11 @@ Some of our third party associates may read contents of your storage to check if
 
 For a more extensive list of events that our third party associates may track, please check their privacy policy here: 
 
-
--Google AdMob: https://policies.google.com/technologies/ads  
 -Apple https://www.apple.com/legal/internet-services/itunes/gamecenter/ and https://www.apple.com/ca/legal/privacy/en-ww/ 
 -Google https://policies.google.com/privacy 
+-Google AdMob: https://policies.google.com/technologies/ads
 -Cocos2dx: http://cocos2d-x.org/privacy_policy 
+-Sdkbox http://www.sdkbox.com/privacy  
 
 Age required play our mobile games:
 Age greater or equal to 13: Ireland, Greece, Estonia, Denmark, Czech Republic, Republic of Cyprus, Croatia, Bulgaria, Belgium, Italy, Latvia, Malta, Poland, Romania , Portugal, Slovenia, Spain, Sweden, United Kingdom and everywhere else (except Korea). 
